@@ -1,0 +1,9 @@
+Credentials cache: API:14666
+        Principal: mpillot@42.FR
+
+  Issued                Expires               Principal
+Aug  5 10:00:50 2015  Aug  5 20:00:50 2015  krbtgt/42.FR@42.FR
+Aug  5 10:00:53 2015  Aug  5 20:00:50 2015  nfs/zfs-student-1.42.fr@42.FR
+Aug  5 10:00:53 2015  Aug  5 20:00:50 2015  nfs/zfs-student-5.42.fr@42.FR
+Aug  5 10:07:46 2015  Aug  5 20:00:50 2015  ldap/ldap-proxy.42.fr@42.FR
+Aug  5 10:42:16 2015  Aug  5 20:00:50 2015  host/vogsphere-frontend-normal-1.42.fr@42.FR
